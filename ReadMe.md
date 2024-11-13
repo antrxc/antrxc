@@ -1,4 +1,4 @@
-# Welcome to my GitHub Playground! 🚀
+# ReadMe????? 😒
 
 **A bit about me:**
 
@@ -16,10 +16,8 @@
 
 **Feel free to explore, fork, and contribute!** 
 
-[Add a cool GIF or image here, maybe a pixel art character coding]
+<img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" alt="My code isn't working...">
 
-**Disclaimer:** 
-*This repository may contain bugs, typos, and questionable code. Use at your own risk.* 
 
 **Let's Connect!** 
 * **Twitter:** [@AntricN](https://twitter.com/AntricN)
