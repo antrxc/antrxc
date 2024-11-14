@@ -1,10 +1,8 @@
 # ReadMe????? 😒
 
-**A bit about me:**
-
 * **Name:** Antric K. (pr0xy) 
 * **Interests:** General Tech, Gaming, Game Engines 🎮
-* **Favorite Language:** C (probably) 
+* **Favorite Language:** C (prolly) 
 * **Current Obsession:** Compilers and Game Engines ⚙️
 
 **What you'll find here:**
