@@ -1,3 +1,5 @@
+<img src="assets/pixel-art-kirokaze-19.gif" alt="meh.">
+
 # Readmeh 😐
 
 * **Name:** Antric K. (pr0xy) 
@@ -14,7 +16,6 @@
 
 **Feel free to explore, fork, and contribute!** 
 
-<img src="assets/pixel-art-kirokaze-19.gif" alt="meh.">
 
 
 **Let's Connect!** 
