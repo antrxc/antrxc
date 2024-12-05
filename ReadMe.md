@@ -1,4 +1,4 @@
-# ReadMe????? 😒
+# Readmeh 😐
 
 * **Name:** Antric K. (pr0xy) 
 * **Interests:** General Tech, Gaming, UI-kits 🎮
@@ -14,7 +14,7 @@
 
 **Feel free to explore, fork, and contribute!** 
 
-<img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" alt="My code isn't working...">
+<img src="assets/pixel-art-kirokaze-19.gif" alt="meh.">
 
 
 **Let's Connect!** 
