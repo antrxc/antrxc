@@ -2,16 +2,15 @@
 
 # Readmeh 😐
 
-* **Name:** Antric K. (pr0xy) 
-* **Interests:** General Tech, Gaming, UI-kits 🎮
-* **Favorite Language:** C (prolly) 
-* **Current Obsession:** UI-kits and Backend ⚙️
+* **Name:** Antric K. 
+* **Interests:** General Tech, Gaming, Long Code 🎮
+* **Favorite Language:** Java (prolly) 
+* **Current Obsession:** Game Theory and Spring ⚙️
 
 **What you'll find here:**
 
 * **Projects:** A mix of fun projects, from simple scripts to complex applications. 
 * **Experiments:** A place to tinker and learn new things. 🧪
-* **Tutorials:** Step-by-step guides on topics I've learned. 📚
 * **Random Stuff:** Who knows what you might find here! 📦
 
 **Feel free to explore, fork, and contribute!** 
